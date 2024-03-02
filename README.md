@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me peaceodjegba2@gmail.com
 - 😄 Pronouns: Miss
-- ⚡ Fun fact: Ilove learning new skills and improving my knowledge 
+- ⚡ Fun fact: I love learning new skills and improving my knowledge 
 
 <!---
 Peace110622/Peace110622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
