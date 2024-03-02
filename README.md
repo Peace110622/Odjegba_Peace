@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peace110622
+- 👋 Hi, I’m Odjegba Peace
 - 👀 I’m keen on acquiring new knowledge and expanding my skills
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Data science projects
